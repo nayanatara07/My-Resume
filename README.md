@@ -1,5 +1,5 @@
 
-# Nayana Tara's Resume using html
+# Nayana Tara's Resume (using html)
 
 
 
