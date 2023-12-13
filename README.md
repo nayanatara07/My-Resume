@@ -39,5 +39,5 @@ This online resume provides an overview of Nayana Tara's academic background, wo
 
 2. Open the index.html file in a web browser.
 
-3. Explore Nayana T's resume and get to know her background and skills.
+3. Explore Nayana Tara's resume and get to know her background and skills.
 
