@@ -12,7 +12,7 @@
 
 ## Introduction
 
-This online resume provides an overview of Nayana Tara's academic background, work experience, projects, technical skills, organizations, achievements, internships, certificates, and language proficiency.
+This [online resume](https://nayanatara07.github.io/My-Resume/) provides an overview of Nayana Tara's academic background, work experience, projects, technical skills, organizations, achievements, internships, certificates, and language proficiency.
 
 ## Sections
 
