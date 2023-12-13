@@ -1,7 +1,5 @@
 
-# Nayana Tara's Resume (using html)
-
-
+# NayanaTara's Resume (using html)
 
 ## Table of Contents
 
